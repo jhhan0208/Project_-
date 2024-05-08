@@ -430,7 +430,7 @@ plt.show()
 
 
  
-<img src="/assets/images/output_26_0.png">
+<img src="/images/output_26_0.png">
     
 
 
@@ -445,7 +445,7 @@ plt.show()
 
 
     
-<img src="/assets/images/output_28_0.png">
+<img src="/images/output_28_0.png">
     
 
 
@@ -460,7 +460,7 @@ plt.show()
 
 
     
-<img src="/assets/images/output_30_0.png">
+<img src="/images/output_30_0.png">
     
 
 
